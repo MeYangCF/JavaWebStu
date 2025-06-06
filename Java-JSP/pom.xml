@@ -10,13 +10,13 @@
   <packaging>war</packaging>
 
   <dependencies>
-    <!--servlet依赖-->
+    <!--JSP依赖-->
     <dependency>
       <groupId>javax.servlet.jsp</groupId>
       <artifactId>jsp-api</artifactId>
       <version>2.2</version>
     </dependency>
-    <!--JSP依赖-->
+    <!--servlet依赖-->
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>servlet-api</artifactId>
