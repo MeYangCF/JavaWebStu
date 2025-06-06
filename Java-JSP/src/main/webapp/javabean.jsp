@@ -16,7 +16,7 @@
  People people=new People();
  --%>
 
-<jsp:useBean id="people" class="com.zty.pojo.People" scope="page"/>
+<jsp:useBean id="people" class="com.meyangcf.pojo.People" scope="page"/>
 <jsp:setProperty name="people" property="id" value="1"/>
 <jsp:setProperty name="people" property="name" value="张天泳"/>
 <jsp:setProperty name="people" property="age" value="18"/>
