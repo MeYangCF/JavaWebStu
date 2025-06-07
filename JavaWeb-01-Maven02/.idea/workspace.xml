@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8de854af-d4f2-4fa3-a7ae-ed6f7af78616" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-01-Maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-01-Maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-01-Maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-01-Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-01-Maven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-01-Maven/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/src/main/Java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Maven/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Request/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Request/src/main/Java/com/meyangcf/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Request/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Request/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Request/src/main/webapp/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/src/main/Java/com/meyangcf/servlet/FileServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/src/main/Java/com/meyangcf/servlet/ImageServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/src/main/Java/com/meyangcf/servlet/RedirectServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/src/main/Java/com/meyangcf/servlet/RequestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/src/main/resources/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Response/src/main/webapp/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet01/src/main/Java/com/meyangcf/servlet/ErrorServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet01/src/main/Java/com/meyangcf/servlet/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet01/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet01/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/src/main/Java/com/meyangcf/servlet/GetInitParameterServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/src/main/Java/com/meyangcf/servlet/GetRequestDispatcherServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/src/main/Java/com/meyangcf/servlet/GetServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/src/main/Java/com/meyangcf/servlet/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/src/main/Java/com/meyangcf/servlet/PropertiesServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/src/main/resources/aa.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/Servlet02/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Servlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/Java/com/meyangcf/pojo/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/Java/com/meyangcf/servlet/CookieDemo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/Java/com/meyangcf/servlet/CookieDemo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/Java/com/meyangcf/servlet/CookieDemo03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/Java/com/meyangcf/servlet/SessionDemo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/Java/com/meyangcf/servlet/SessionDemo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/Java/com/meyangcf/servlet/SessionDemo03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-Session-Cookie/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MeYangCF"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MeYangCF/JavaWebStu.git",
+    "accountId": "94e4d528-ff97-40e5-a68e-f2dce86a1589"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Maven" />
+        <option name="localRepository" value="D:\Maven\maven-repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2yARw6RMIMLKoWNBgyL7zMRw7Fm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.JavaWeb-01-Maven02 [clean].executor": "Run",
+    "Maven.JavaWeb-01-Maven02 [compile].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8de854af-d4f2-4fa3-a7ae-ed6f7af78616" name="更改" comment="" />
+      <created>1749275626347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749275626347</updated>
+      <workItem from="1749275627313" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
