@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="request:war" />
-    </artifacts-to-build>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2076573b-2203-438c-bedb-8f34e310af96" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="25a8c988-a875-460b-8e43-b383db1c71db" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meyangcf/servlet/CookieDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meyangcf/servlet/CookieDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meyangcf/servlet/CookieDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meyangcf/servlet/SessionDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meyangcf/servlet/SessionDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meyangcf/servlet/SessionDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb-02-Servlet/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,25 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;MeYangCF&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MeYangCF"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MeYangCF/JavaWebStu.git&quot;,
-    &quot;accountId&quot;: &quot;94e4d528-ff97-40e5-a68e-f2dce86a1589&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MeYangCF/JavaWebStu.git",
+    "accountId": "94e4d528-ff97-40e5-a68e-f2dce86a1589"
   }
-}</component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -49,82 +49,52 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2yASOC3UIoG5Cw7OCuL5dK4tYKu" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2yAWijyJ0B2G8fTxjslkXXI7WR9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.JavaWeb-02-Servlet [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.JavaWeb-02-Servlet [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.response [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.response [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.servlet-01 [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.servlet-01 [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.servlet-02 [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.servlet-02 [compile].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Tomcat 服务器.Tomcat 9.0.105.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/IDEA/JavaWeb(Study)/JavaWeb-02-Servlet/servlet-02/src/main/java/com/meyangcf/servlet&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.JavaWeb-Session-Cookie [clean].executor": "Run",
+    "Maven.JavaWeb-Session-Cookie [compile].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/IDEA/JavaWeb(Study)/JavaWeb-Session-Cookie/src/main/webapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-02-Servlet\servlet-02\src\main\java\com\meyangcf\servlet" />
-      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-02-Servlet\servlet-02\src\main\resources" />
-      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-02-Servlet\servlet-02\src\main\java\com.meyangcf.servlet" />
-      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-02-Servlet\servlet-02\src\main\com.meyangcf.servlet" />
-      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-02-Servlet" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-02-Servlet\servlet-02\src\main\java" />
+      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-Session-Cookie\src\main\webapp" />
+      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-Session-Cookie\src\main\java\com\meyangcf\servlet" />
+      <recent name="F:\IDEA\JavaWeb(Study)\JavaWeb-Session-Cookie\src\main\java\com\meyangcf\pojo" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.105" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.105" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="request:war">
+        <artifact name="JavaWeb-Session-Cookie:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/request_war" />
-          </settings>
-        </artifact>
-        <artifact name="response:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/response_war" />
-          </settings>
-        </artifact>
-        <artifact name="servlet-01:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/servlet_01_war" />
-          </settings>
-        </artifact>
-        <artifact name="servlet-02:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/servlet_02_war" />
+            <option name="CONTEXT_PATH" value="/JavaWeb_Session_Cookie_war" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="756516f9-417c-4d18-9bdf-df1c16ec9c40" />
+        <option name="BASE_DIRECTORY_NAME" value="6b1b38ed-082d-4a2c-8556-9f2a27ec4a1c" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -132,7 +102,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="14373" />
+        <option name="DEBUG_PORT" value="3207" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -197,9 +167,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="response:war" />
-          <artifact name="servlet-01:war" />
-          <artifact name="servlet-02:war" />
+          <artifact name="JavaWeb-Session-Cookie:war" />
         </option>
       </method>
     </configuration>
@@ -214,20 +182,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="2076573b-2203-438c-bedb-8f34e310af96" name="更改" comment="" />
-      <created>1749275850177</created>
+      <changelist id="25a8c988-a875-460b-8e43-b383db1c71db" name="更改" comment="" />
+      <created>1749277986828</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1749275850177</updated>
-      <workItem from="1749275851325" duration="435000" />
-      <workItem from="1749276295769" duration="95000" />
-      <workItem from="1749276414806" duration="449000" />
-      <workItem from="1749276873112" duration="254000" />
-      <workItem from="1749277144113" duration="459000" />
-      <workItem from="1749277615102" duration="1000" />
-      <workItem from="1749277618648" duration="29000" />
-      <workItem from="1749277706811" duration="161000" />
-      <workItem from="1749277878328" duration="82000" />
+      <updated>1749277986828</updated>
+      <workItem from="1749277987820" duration="309000" />
     </task>
     <servers />
   </component>
