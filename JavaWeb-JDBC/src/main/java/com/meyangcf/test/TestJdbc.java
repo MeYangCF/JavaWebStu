@@ -6,9 +6,9 @@ public class TestJdbc {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         //配置信息
         //useUnicode=true&characterEncoding=utf-8 解决中文乱码
-        String url="jdbc:mysql://localhost:3306/jdbc?useUnicode=true&characterEncoding=utf-8";
+        String url="jdbc:mysql://localhost:3306/JDBC?useUnicode=true&characterEncoding=utf-8";
         String username = "root";
-        String password = "123456";
+        String password = "meyangcf";
 
         //1.加载驱动
         Class.forName("com.mysql.jdbc.Driver");
@@ -18,8 +18,8 @@ public class TestJdbc {
         Statement statement = connection.createStatement();
 
         //4.编写SQL
-        //String sql = "select * from users";
-        String sql = "delete from users where id = 4";
+        String sql = "select * from users";
+        //String sql = "delete from users where id = 4";
 
         //受影响的行数,增删改都是用executeUpdate即可
         //int i = statement.executeUpdate(sql);

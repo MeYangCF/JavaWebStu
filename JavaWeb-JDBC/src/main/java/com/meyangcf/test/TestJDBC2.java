@@ -7,9 +7,9 @@ public class TestJDBC2 {
     public static void main(String[] args) throws Exception {
         //配置信息
         //useUnicode=true&characterEncoding=utf-8 解决中文乱码
-        String url="jdbc:mysql://localhost:3306/jdbc?useUnicode=true&characterEncoding=utf-8";
+        String url="jdbc:mysql://localhost:3306/JDBC?useUnicode=true&characterEncoding=utf-8";
         String username = "root";
-        String password = "123456";
+        String password = "meyangcf";
 
         //1.加载驱动
         Class.forName("com.mysql.jdbc.Driver");
@@ -22,8 +22,8 @@ public class TestJDBC2 {
         //4.预编译
         PreparedStatement preparedStatement = connection.prepareStatement(sql);
 
-        preparedStatement.setInt(1,2);//给第一个占位符？ 的值赋值为1；
-        preparedStatement.setString(2,"狂神说Java");//给第二个占位符？ 的值赋值为狂神说Java；
+        preparedStatement.setInt(1,4);//给第一个占位符？ 的值赋值为1；
+        preparedStatement.setString(2,"meyangcf");//给第二个占位符？ 的值赋值为狂神说Java；
         preparedStatement.setString(3,"123456");//给第三个占位符？ 的值赋值为123456；
         preparedStatement.setString(4,"24736743@qq.com");//给第四个占位符？ 的值赋值为1；
         preparedStatement.setDate(5,new Date(new java.util.Date().getTime()));//给第五个占位符？ 的值赋值为new Date(new java.util.Date().getTime())；

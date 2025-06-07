@@ -12,9 +12,9 @@ public class TestJDBC3 {
     public void test() {
         //配置信息
         //useUnicode=true&characterEncoding=utf-8 解决中文乱码
-        String url="jdbc:mysql://localhost:3306/jdbc?useUnicode=true&characterEncoding=utf-8";
+        String url="jdbc:mysql://localhost:3306/JDBC?useUnicode=true&characterEncoding=utf-8";
         String username = "root";
-        String password = "123456";
+        String password = "meyangcf";
 
         Connection connection = null;
 
